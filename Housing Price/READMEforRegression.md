@@ -4,8 +4,6 @@ The project uses machine learning and simple regression in order to determine th
 
 ## Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 Kera
 Tensorflow
