@@ -7,7 +7,7 @@ The project uses machine learning and simple regression in order to determine th
 What things you need to install the software and how to install them
 
 ```
-Kera's
+Kera
 Tensorflow
 ```
 
